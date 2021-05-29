@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marieGarnett
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... application developemnt! Wish me luck!
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi!
+- 👀 I’m interested in ... manly stuffs lol xd
+- 🌱 I’m currently learning ... application developement! Wish me luck!
+- 💞️ I’m looking to collaborate on ... anything and with anyone who have patience to teach me.
 - 📫 How to reach me ...
 
 <!---
